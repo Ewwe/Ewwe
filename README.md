@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TheRealEwolutions/LocalManager/pull/1) in [TheRealEwolutions/LocalManager](https://github.com/TheRealEwolutions/LocalManager)
+1. 🚀 Published release [1.0.0](https://github.com/Ewwe/modlands-updater/releases/tag/1.0.0) in [Ewwe/modlands-updater](https://github.com/Ewwe/modlands-updater)
 <!--END_SECTION:activity-->
