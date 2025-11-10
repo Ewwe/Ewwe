@@ -67,7 +67,7 @@ Proud ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&l
 
 ## My Gaming Stack
 ![PC](https://img.shields.io/badge/PC-000000?style=for-the-badge&logo=windows&logoColor=white)
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
+![Playstation 5 Pro](https://img.shields.io/badge/Playstation%205%20Pro-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Switch 2](https://img.shields.io/badge/Switch2-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/Ewwe/Ewwe/output/snake.svg" alt="Snake animation" />
